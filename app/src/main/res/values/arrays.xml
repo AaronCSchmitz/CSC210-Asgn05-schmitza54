@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string-array name="regions_list">
+      <item>Original_Colonies</item>
+      <item>Newborn_Nation</item>
+      <item>Louisiana_Purchase</item>
+      <item>Manifest_Destiny</item>
+   </string-array>
+
+   <string-array name="regions_list_for_settings">
+      <item>Original Colonies</item>
+      <item>Newborn Nation</item>
+      <item>Louisiana Purchase</item>
+      <item>Manifest Destiny</item>
+   </string-array>
+
+   <string-array name="guesses_list">
+      <item>2</item>
+      <item>4</item>
+      <item>6</item>
+      <item>8</item>
+   </string-array>
+
+</resources>
